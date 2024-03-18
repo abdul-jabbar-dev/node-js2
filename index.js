@@ -1,1 +1,1 @@
-console.log("hello from master")
+console.log("hello from main")
